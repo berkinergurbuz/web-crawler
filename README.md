@@ -1,3 +1,3 @@
 # web-crawler
 
-BeautifulSoup kullanılarak web crawler işlemi yapılmıştır. Ardından dataset düzeltişmiştir.
+BeautifulSoup kullanılarak web crawler işlemi yapılmıştır. Ardından dataset düzeltilmiştir.
